@@ -47,5 +47,5 @@ Uma calculadora simples e funcional desenvolvida com **HTML**, **CSS** e **JavaS
 
 ## 📸 Prévia
 
-![Calculator](https://github.com/user-attachments/assets/457e2592-cc59-4d13-b8f1-637bc8fa6602)
+> ![Calculator](https://github.com/user-attachments/assets/457e2592-cc59-4d13-b8f1-637bc8fa6602)
 
